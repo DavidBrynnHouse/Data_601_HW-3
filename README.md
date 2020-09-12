@@ -16,4 +16,20 @@ I was interested in looking at data taken from the web for my project. To do thi
 
 ---
 
+* Using urls to access the reddit API I was unable to get more than the top 100 posts to a given subreddit. I think that had I been able to get all posts ever created for r/pics I would have a better idea of the effect that tile length has on a posts popularity. 
+
+* When I started this project I first wanted to look at the most popular adjectives used in titles. However, I was unable to find a decent list of adjectives that I could use to match with words in the titles so I switched my goals around.
+
+## Conclusions
+
+---
+
+Becuase I only have the top 100 posts from r/pics I hesitate to draw many conclusions without a loss of generality. However I can see that most posts tend to have fewer than 20 words. 
+
+## Bibliography
+
+---
+
+www.reddit.com
+https://json.reddit.com/r/pics/top/?limit=100
 
