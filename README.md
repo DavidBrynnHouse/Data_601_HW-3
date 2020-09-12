@@ -35,9 +35,9 @@ I was interested in looking at data taken from the web for my project. To do thi
 
 ---
 
-|  | Title Word Count|
+|  | Word Count|
 | :-------------: | :-----------: |
-|count        |100.000000|
+|count        |100|
 |mean         | 16.090000|
 |std           |10.524714|
 |min            |2.000000|
