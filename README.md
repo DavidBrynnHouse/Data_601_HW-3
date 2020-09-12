@@ -36,21 +36,14 @@ I was interested in looking at data taken from the web for my project. To do thi
 ---
 
 |  | Title Word Count|
-
+| :-------------: | :-----------: |
 |count        |100.000000|
-
 |mean         | 16.090000|
-
 |std           |10.524714|
-
 |min            |2.000000|
-
 |25%           | 9.750000|
-
 |50%           |14.500000|
-
 |75%           |20.250000|
-
 |max           |51.000000|
 
 
