@@ -50,7 +50,9 @@ I was interested in looking at data taken from the web for my project. To do thi
 
 ![Image](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Images/ScatterPlot.png)
 
+
 **Box plot highlighting several outlires**
+
 ![Image](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Images/Box-Plot.png)
 
 ## Conclusions
