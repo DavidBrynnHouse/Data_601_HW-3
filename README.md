@@ -51,7 +51,7 @@ I was interested in looking at data taken from the web for my project. To do thi
 ![Image](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Images/ScatterPlot.png)
 
 
-**Box plot highlighting several outlires**
+**Box plot highlighting several outliers**
 
 ![Image](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Images/Box-Plot.png)
 
@@ -59,13 +59,15 @@ I was interested in looking at data taken from the web for my project. To do thi
 
 ---
 
-Becuase I only have the top 100 posts from r/pics I hesitate to draw many conclusions without a loss of generality. However I can see that most posts tend to have fewer than 20 words. 
+Becuase I only have the top 100 posts from r/pics I hesitate to draw many conclusions without a loss of generality. However I can see that most posts have fewer than 20 words. This may change depending on the subreddit since mods are able to specify a minimum and a maximum title length[3]
 
 ## Bibliography
 
 ---
 
-www.reddit.com
+[1]www.reddit.com
 
-https://json.reddit.com/r/pics/top/?limit=100
+[2]https://json.reddit.com/r/pics/top/?limit=100
+
+[3]https://mods.reddithelp.com/hc/en-us/articles/360010322091-Post-Requirements
 
