@@ -23,13 +23,17 @@ I was interested in looking at data taken from the web for my project. To do thi
 
 ---
 
-1) My first step was to obtain usable data which I got from the subreddit r/pics. I used the reddit API to get a .json representation of the top 100 posts on r/pics
+1) My first step was to obtain usable data which I got from the subreddit r/pics. I used the reddit API to get a .json representation of the top 100 posts on r/pics.
 
 2) Once I had the data I used pandas to dig into the data. Since I was intersted in the titles of each posts I used a combination of lists, for loops and dictionaries to get the titles into a usable data structure.
 
-3) My result from the previous step gave me a dictionary in the form `{"Title": number of words in title}` which I then converted into a `DataFrame`
+3) My result from the previous step gave me a two lists: `Title Rating` and `Word Count`, which I passed into a dictionary with keys corresponding to those titles and transformed it into a `DataFrame`.
 
-4) Using the `DataFrame` I sorted the data using `sort_values()` then I described the data using `describe()` finally I plotted the data in a histogram.
+4) To check if there were any null values in my data set I used the `.isnull().any()` function which came up false. 
+
+5) I then plotted my data in a box plot to determine if there were any outliers.
+
+6) Finally I obtaind some descriptive statistics and a scatter plot to determine if there was a correlation
 
 ## Results
 
@@ -55,11 +59,13 @@ I was interested in looking at data taken from the web for my project. To do thi
 
 ![Image](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Images/Box-Plot.png)
 
+We can see from the above box plot that there are several outlier titles with 50 or more words. We can also see that there is not a cerrelation between the length of the title and the popularity of a post.
+
 ## Conclusions
 
 ---
 
-Becuase I only have the top 100 posts from r/pics I hesitate to draw many conclusions without a loss of generality. However I can see that most posts have fewer than 20 words. This may change depending on the subreddit since mods are able to specify a minimum and a maximum title length[3]
+Becuase I only have the top 100 posts from r/pics I hesitate to draw many conclusions without a loss of generality. However, I can see that most posts have fewer than 20 words. This may change depending on the subreddit since mods are able to specify a minimum and a maximum title length[3]. Based on the data available it seems that there is not relationship between the number of words in a title and how popular that post is.
 
 ## Bibliography
 
