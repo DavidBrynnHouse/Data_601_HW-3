@@ -46,7 +46,7 @@ I was interested in looking at data taken from the web for my project. To do thi
 |75%           |20.250000|
 |max           |51.000000|
 
-![Image](Data_601_HW-1/Images/ScatterPlot.png)
+![Image](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Images/ScatterPlot.png)
 
 ## Conclusions
 
