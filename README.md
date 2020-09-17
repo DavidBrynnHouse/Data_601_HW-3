@@ -20,9 +20,7 @@
 
 ---
 
-The data set that I chose to work with was the full text of Special Counsel Robert Mueller's Report on Russian Interference in the 2016 Presidential Election. I retrieved a CSV of this file from https://www.kaggle.com/paultimothymooney/mueller-report. By analyzing this report I sought to determine what the most used words in the document were in order to see what the most important features of the investigation were. 
-A large feature of the report is that much of it is redacted. For each redacted section a reason is given for the redaction so I wanted to see what the major reasons for redaction were,
-Previous analysis of this document included looking at the word frequency of the document so I wanted to specifically look for the number and type of sections that were redacted.
+The data set that I chose to work with was the full text of Special Counsel Robert Mueller's Report on Russian Interference in the 2016 Presidential Election. I retrieved a CSV of this file from https://www.kaggle.com/paultimothymooney/mueller-report. My analysis was conducted to determine where investigators were focusing their attention. A large feature of the report is that much of it is redacted. For each redacted section a reason is given. I wanted to see what were the major reasons for redactions. Previous analysis of this document included looking at the word frequency of the document. I wanted to determine the number and type of sections that were redacted.
 
 ## Summary
 
