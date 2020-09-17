@@ -25,6 +25,10 @@ The data set that I chose to work with was the full text of Special Council Robe
 A large feature of the report is that much of it is redacted. For each redacted section a reason is given for the redaction so I wanted to see what the major reasons for redaction were,
 Previous analysis of this document included looking at the word frequncy of the document so I wanted to specifically look for the number and type of sections that were redacted.
 
+## Summary
+
+The Special Council Rober Mullers Investigation into Russian Interference in the 2016 Presidential Election was a landmark report which has been analyzed by many who seek to understand the Trump 2016 presidential campaign and Russia's involvement. By obtaining the frequency of unique words in the document one can learn much about what the investigation involved and what its main focus was. Because much of the report was redacted there are still large segments that are unknown to the public. By observing what sort of information was withheld readers can better understand what may be missing from the report.
+
 
 ## Limitations and Basic Info of the Report
 
