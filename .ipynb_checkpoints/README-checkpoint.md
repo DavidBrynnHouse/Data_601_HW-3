@@ -5,15 +5,15 @@
 ---
 
 .
-├── **Code** - Folder for Jupyter notebooks.
-│   └── Cleaning_Mueller_Csv.ipynb - Jupyter notebook used to clean and organize data.
-├── **Data** - information both raw and cleaned
-│   ├── cleaned_mueller.csv - csv file with each individual word in its own line.
-│   ├── mueller_report.csv - The full redacted Mueller Report.
-│   └── redactions.csv - a 2x2 csv detailing redactions of the Mueller Report.
-├── Executive - Analysis-of-Mueller-Report.ipynb - The main Jupyter Notebook containing the analysis for this project.
-├── LICENSE - MIT License
-└── README.md - A description of the project goals requirements and limitations.
+* **Code** - Folder for Jupyter notebooks.
+     Cleaning_Mueller_Csv.ipynb - Jupyter notebook used to clean and organize data.
+* **Data** - information both raw and cleaned
+    cleaned_mueller.csv - csv file with each individual word in its own line.
+    mueller_report.csv - The full redacted Mueller Report.
+    redactions.csv - a 2x2 csv detailing redactions of the Mueller Report.
+* Executive - Analysis-of-Mueller-Report.ipynb - The main Jupyter Notebook containing the analysis for this project.
+* LICENSE - MIT License
+* README.md - A description of the project goals requirements and limitations.
 
 
 
