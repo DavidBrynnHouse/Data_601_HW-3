@@ -13,23 +13,20 @@
 
 
 
-## My goals for this project
+## Overview
 
 ---
 
-The data set that I chose to work with was the full text of Special Counsel Robert Mueller's Report on Russian Interference in the 2016 Presidential Election. I retrieved a CSV of this file from https://www.kaggle.com/paultimothymooney/mueller-report. My analysis was conducted to determine where investigators were focusing their attention. A large feature of the report is that much of it is redacted. For each redacted section a reason is given. I wanted to see what were the major reasons for redactions. Previous analysis of this document included looking at the word frequency of the document. I wanted to determine the number and type of sections that were redacted.
+The data set that I chose to work with was a labeled set of emails inorder to create a spam classifier. The dataset contains 4602 entries with 58 features, there are no missing values. 
 
-## Summary
+## Goals
 
-The Special Counsel Rober Mullers Investigation into Russian Interference in the 2016 Presidential Election was a landmark report which has been analyzed by many who seek to understand the Trump 2016 presidential campaign and Russia's involvement. By obtaining the frequency of unique words in the document one can learn much about what the investigation involved and what its main focus was. Because much of the report was redacted there are still large segments that are unknown to the public. By observing what sort of information was withheld readers can better understand what may be missing from the report.
+The main goal of this project was to create a spam filter that can label incoming emails as spam or not spam. Secondary goals were to determine which algorithm most effectively labeled emails and to demonstrate model selection of classification algorithms.
 
 
-## Limitations and Basic Info of the Report
+## Motivation and Background
 
----
-
-* The document is a conversion from pdf to CSV format. Because of this conversion, some words have been corrupted and therefore are uncountable. By visual inspection of the CSV however, I determined that it is not a significant amount of words that have been corrupted.
-* The document has 19196 rows and 3 columns labeled page, line, and text. page and line are both integers while text contains strings
+The motivation for this project was to recreate a spam filter based on data collected from the Kaggle website. By doing this I hoped to learn more about how to create classification algorithms with sklearn and python. This type of work is important because spam emails can be annoying and even malicious. By creating an algorithm to label data as spam we can limit the number of spam emails that an individual receives.
 
 
 ## Requirements
