@@ -5,12 +5,9 @@
 ---
 
 * **Code** - Folder for Jupyter notebooks.
-    * [Executive-Analysis.ipynb](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Code/Cleaning_Mueller_Csv.ipynb) - Jupyter notebook used to clean and organize data.
+    * [Executive-Analysis.ipynb](https://github.com/DavidBrynnHouse/Data_601_HW-3/blob/master/Code/Executive%20Analysis.ipynb) - Jupyter notebook used to clean and organize data.
 * **Data** - information both raw and cleaned
-    * [cleaned_mueller.csv](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Data/cleaned_mueller.csv) - csv file with each individual word in its own line.
-    * [mueller_report.csv](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Data/mueller_report.csv) - The full redacted Mueller Report.
-    * [redactions.csv](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Data/redactions.csv) - a 2x2 csv detailing redactions of the Mueller Report.
-* [Executive-Analysis-of-Mueller-Report.ipynb](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Executive-Analysis-of-Mueller-Report.ipynb) - The main Jupyter Notebook containing the analysis for this project.
+    * [spambase.csv](https://github.com/DavidBrynnHouse/Data_601_HW-3/blob/master/Data/spambase.csv) - csv file with detailing word frequencies of labeled emails.
 * [LICENSE](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/LICENSE) - MIT License
 * [README.md](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/README.md) - A description of the project goals requirements and limitations.
 
