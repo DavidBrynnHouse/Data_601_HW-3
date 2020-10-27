@@ -5,7 +5,7 @@
 ---
 
 * **Code** - Folder for Jupyter notebooks.
-    * [Cleaning_Mueller_Csv.ipynb](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Code/Cleaning_Mueller_Csv.ipynb) - Jupyter notebook used to clean and organize data.
+    * [Executive-Analysis.ipynb](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Code/Cleaning_Mueller_Csv.ipynb) - Jupyter notebook used to clean and organize data.
 * **Data** - information both raw and cleaned
     * [cleaned_mueller.csv](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Data/cleaned_mueller.csv) - csv file with each individual word in its own line.
     * [mueller_report.csv](https://github.com/DavidBrynnHouse/Data_601_HW-1/blob/master/Data/mueller_report.csv) - The full redacted Mueller Report.
@@ -43,4 +43,14 @@ The software used in this analysis included:
 
 1) Python
 2) Pandas package for python
-3) nltk package for python
+3) sklearn package for python
+
+## Resources
+
+---
+
+Webpages visited while completing this project:
+
+* https://scikit-learn.org/stable/tutorial/basic/tutorial.html
+* https://www.aboutdatablog.com/post/a-quick-overview-of-5-scikit-learn-classification-algorithms
+* https://www.kaggle.com/rodrigoep/spambase
