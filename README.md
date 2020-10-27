@@ -17,7 +17,14 @@
 
 ---
 
-The data set that I chose to work with was a labeled set of emails inorder to create a spam classifier. The dataset contains 4602 entries with 58 features, there are no missing values. 
+This project uses classification algorithms, and a labeled dataset of over 4000 emails to determine whether an email is spam or not. I tested three different algorithms with cross validation to determine the best one.
+
+
+## Data
+
+---
+
+The dataset that I chose to work with was a labeled set of emails inorder to create a spam classifier. It contains 4602 entries with 58 features, there are no missing values. 
 
 ## Goals
 
